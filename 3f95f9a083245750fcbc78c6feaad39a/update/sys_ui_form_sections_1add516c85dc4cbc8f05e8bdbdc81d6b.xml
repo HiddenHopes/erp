@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1add516c85dc4cbc8f05e8bdbdc81d6b" sys_domain="global" table="x_2182542_enterp_0_ast_type" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>898c5480a06848f99a94b6b7d59fcf7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2182542_enterp_0_ast_type" name="x_2182542_enterp_0_ast_type" sys_domain="global" view="Default view">1add516c85dc4cbc8f05e8bdbdc81d6b</sys_ui_form>
+            <sys_ui_section caption="Asset Type" display_value="Asset Type" name="x_2182542_enterp_0_ast_type" sys_domain="global" view="Default view">f17f8a4d766b48ebba726df2cf7a5936</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2182542_enterp_0_ast_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1add516c85dc4cbc8f05e8bdbdc81d6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_ast_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1add516c85dc4cbc8f05e8bdbdc81d6b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Employee Information" section_id="06183d2cfdb648b5b0bb89108c25527e" sys_domain="global" table="x_2182542_enterp_0_emp" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>d201d3a217ad4b09941d799caeb60a81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>031a1e2130c64bd19450a2e4552ec420</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emp_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>a14781f1604c4945bcf1ff1f225390c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>292e0906d8ac4880a19676afc45e1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>d3a459ebc816448391e0f9ef54c57c91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>b05fb384a0034ae3ba42e58be7d95c7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>cd9efad1ec634aada783fd3bfd80a504</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>2767d6944ee44c46ac43a18c0e7486ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>33835b1374a04a67a9369dd9a2cf2d82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>designation</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>f06ad8ec8af8411e984a4657cda38cdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>ad0a4ba8bfb04a12add3972513670972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>384e7b8924a142b2a9f0903b6bbd81c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>98bf7f8a37de4179ba9d31cdcb6acd48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>join_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>156ac04c0ada4f9f88e2fb57eafb466a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>de171a282e6d44fb82bd21c680c66616</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>045ee56479374a408e56fd9a2fd6fd58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>d5e0edf03c4d4829a6279b1f21764e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_id>882ea1a9d3804493bacbca40ac2b0121</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Information" display_value="Employee Information" name="x_2182542_enterp_0_emp" sys_domain="global" view="Default view">06183d2cfdb648b5b0bb89108c25527e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employee Information</caption>
+            <header>false</header>
+            <name>x_2182542_enterp_0_emp</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06183d2cfdb648b5b0bb89108c25527e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_emp</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_section_06183d2cfdb648b5b0bb89108c25527e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="dd7bcde089b5402393963eccb577091f" extends="x_2182542_enterp_0_svc_req" label="IT Request" name="x_2182542_enterp_0_it_req" type="collection">
+    <element db_object_id="dd7bcde089b5402393963eccb577091f" extends="x_2182542_enterp_0_svc_req" name="x_2182542_enterp_0_it_req" type="collection">
         <element label="Affected Asset" name="asset" reference="alm_asset" type="reference"/>
         <element default="3" label="Impact" name="impact" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="High" sequence="1" value="1"/>
-                <element inactive_on_update="false" label="Medium" sequence="2" value="2"/>
-                <element inactive_on_update="false" label="Low" sequence="3" value="3"/>
-            </choice>
+            <choice/>
         </element>
         <element default="3" label="Urgency" name="urgency" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="High" sequence="1" value="1"/>
-                <element inactive_on_update="false" label="Medium" sequence="2" value="2"/>
-                <element inactive_on_update="false" label="Low" sequence="3" value="3"/>
-            </choice>
+            <choice/>
         </element>
         <element label="Resolution Notes" max_length="4000" name="resolution" type="multi_two_lines"/>
         <element label="IT Request Type" mandatory="true" name="it_type" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Service Request" sequence="2" value="service_request"/>
-                <element inactive_on_update="false" label="Incident" sequence="1" value="incident"/>
-                <element inactive_on_update="false" label="Problem" sequence="4" value="problem"/>
-                <element inactive_on_update="false" label="Change Request" sequence="3" value="change"/>
-            </choice>
+            <choice/>
         </element>
         <index name="index">
             <element name="asset"/>

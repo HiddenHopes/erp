@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="9fb243a477d547e6b4b9b09b81f3b2d8" label="Support Ticket" name="x_2182542_enterp_0_sup_tkt" type="collection">
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element label="Title" max_length="300" name="title" type="string"/>
+        <element label="Designation" max_length="200" name="designation" type="string"/>
+        <element label="Approval Manager Level-3" name="approval_mgr3" reference="sys_user" type="reference"/>
+        <element label="Category" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" sequence="6" value="other"/>
+                <element inactive_on_update="false" label="Hardware Request" sequence="2" value="hardware"/>
+                <element inactive_on_update="false" label="Accessory Requisition" sequence="1" value="accessory"/>
+                <element inactive_on_update="false" label="Software Request" sequence="3" value="software"/>
+                <element inactive_on_update="false" label="Facility Request" sequence="5" value="facility"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="4" value="maintenance"/>
+            </choice>
+        </element>
+        <element label="Branch" name="branch" reference="x_2182542_enterp_0_branch" type="reference"/>
+        <element label="Approval Manager Level-2" name="approval_mgr2" reference="sys_user" type="reference"/>
+        <element label="Support Location" max_length="200" name="location" type="string"/>
+        <element label="Department" name="department" reference="x_2182542_enterp_0_dept" type="reference"/>
+        <element default="draft" label="State" mandatory="true" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="1" value="draft"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="2" value="confirmed"/>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="in_progress"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="closed"/>
+                <element inactive_on_update="false" label="Completed" sequence="4" value="completed"/>
+            </choice>
+        </element>
+        <element label="Resolved At" name="resolved_at" type="glide_date_time"/>
+        <element label="Approval Manager Level-1" name="approval_mgr1" reference="sys_user" type="reference"/>
+        <element label="Requester" name="requester" reference="x_2182542_enterp_0_emp" type="reference"/>
+        <element label="Support Type" name="support_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Technical" sequence="2" value="technical"/>
+                <element inactive_on_update="false" label="Emergency" sequence="4" value="emergency"/>
+                <element inactive_on_update="false" label="Administrative" sequence="3" value="administrative"/>
+                <element inactive_on_update="false" label="General" sequence="1" value="general"/>
+            </choice>
+        </element>
+        <element label="Reject Reason" max_length="2000" name="reject_reason" type="multi_two_lines"/>
+        <element default="normal" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Urgent" sequence="4" value="urgent"/>
+                <element inactive_on_update="false" label="Normal" sequence="2" value="normal"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="high"/>
+                <element inactive_on_update="false" label="Low" sequence="1" value="low"/>
+            </choice>
+        </element>
+        <element label="Comments" name="comments" type="journal_input"/>
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element label="Request Date" name="request_date" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" name="number" type="string"/>
+        <element label="Pending Reason" max_length="2000" name="pending_reason" type="multi_two_lines"/>
+        <index name="index">
+            <element name="approval_mgr1"/>
+        </index>
+        <index name="index2">
+            <element name="approval_mgr2"/>
+        </index>
+        <index name="index3">
+            <element name="approval_mgr3"/>
+        </index>
+        <index name="index4">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index5">
+            <element name="branch"/>
+        </index>
+        <index name="index6">
+            <element name="department"/>
+        </index>
+        <index name="index7">
+            <element name="requester"/>
+        </index>
+    </element>
+</database>

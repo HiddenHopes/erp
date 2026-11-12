@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Approval" section_id="d426650a64c443e7b0240dba2188f92e" sys_domain="global" table="x_2182542_enterp_0_sup_tkt" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>09d3f69624cb446aaa2736b61d1fcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_mgr1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>189cff6fb4e044e684cf3a9d4477e5e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_mgr2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>d686b7a2172c41d1ba25fc2c2d564de4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_mgr3</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>67942a6703954b8baacfe3f3d458afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>fb245f0c307d40cb96a2994e3921faea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reject_reason</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>8fe1cc1d4932417d8e673e0ec3305d29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pending_reason</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>20374caba8d04ed8a425b0a35c643d25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_id>8efe45e4a2804d54a6a255077fa0bd24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">d426650a64c443e7b0240dba2188f92e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Approval</caption>
+            <header>false</header>
+            <name>x_2182542_enterp_0_sup_tkt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d426650a64c443e7b0240dba2188f92e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_sup_tkt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_section_d426650a64c443e7b0240dba2188f92e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

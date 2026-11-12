@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5f43b7bfa3dc4acf86be9827cae5d1a5" extends="x_2182542_enterp_0_svc_req" label="HR Case" name="x_2182542_enterp_0_hr_case" type="collection">
+    <element db_object_id="5f43b7bfa3dc4acf86be9827cae5d1a5" extends="x_2182542_enterp_0_svc_req" name="x_2182542_enterp_0_hr_case" type="collection">
         <element label="Target Completion Date" name="target_date" type="glide_date_time"/>
         <element label="HR Category" mandatory="true" name="hr_category" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Payroll" sequence="4" value="payroll"/>
-                <element inactive_on_update="false" label="Complaint" sequence="7" value="complaint"/>
-                <element inactive_on_update="false" label="Policy Inquiry" sequence="6" value="policy"/>
-                <element inactive_on_update="false" label="Offboarding" sequence="2" value="offboarding"/>
-                <element inactive_on_update="false" label="Onboarding" sequence="1" value="onboarding"/>
-                <element inactive_on_update="false" label="Leave Management" sequence="5" value="leave"/>
-                <element inactive_on_update="false" label="Other" sequence="8" value="other"/>
-                <element inactive_on_update="false" label="Benefits" sequence="3" value="benefits"/>
-            </choice>
+            <choice/>
         </element>
         <element label="Employee" name="employee" reference="sys_user" type="reference"/>
         <element label="Reporting Manager" name="manager_ref" reference="sys_user" type="reference"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="0d4f235ef8944634a215ce0581165810" label="Branch" name="x_2182542_enterp_0_branch" type="collection">
+        <element label="Branch Code" max_length="20" name="code" type="string"/>
+        <element display="true" label="Branch Name" mandatory="true" max_length="200" name="name" type="string"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Address" max_length="500" name="address" type="multi_two_lines"/>
+    </element>
+</database>

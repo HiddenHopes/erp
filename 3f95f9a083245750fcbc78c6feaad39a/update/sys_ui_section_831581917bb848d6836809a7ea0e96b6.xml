@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Request Information" section_id="831581917bb848d6836809a7ea0e96b6" sys_domain="global" table="x_2182542_enterp_0_sup_tkt" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>506afe4614d944a19ddde10259ffddf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>ec6f5f4462f442aa82d6511cee2dd8e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>12796e07cedd4456828265143aad48ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>75a483c27a2842e89daeb505e750268c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>designation</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>e57e25ac2b254a97a68037c05f73a7fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>36f4d85a8fdf4e409f21109eabfab1cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>5b56bc9534e648aeb678bfd60c7cd4be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_type</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>19d1a5719ab74aff9e4b2e9132b85381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>7e000d2f07f4450ea8e475b4de0c3e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>f527ac80b8574f98b190b3bc303fb876</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>3cafc475856249a2b59a4b417cec4bc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>f02fa757507244a590a14f7cd0422721</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>95a5028c14c14fcdb07a022a1b05f522</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>7a967aa93a8a4e8a9b78b356c2e5c043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>bf999df8668144f9b049d3709f1741bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Information" display_value="Request Information" name="x_2182542_enterp_0_sup_tkt" sys_domain="global" view="Default view">831581917bb848d6836809a7ea0e96b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Request Information</caption>
+            <header>false</header>
+            <name>x_2182542_enterp_0_sup_tkt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>831581917bb848d6836809a7ea0e96b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_sup_tkt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_section_831581917bb848d6836809a7ea0e96b6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

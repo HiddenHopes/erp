@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Asset Category" section_id="828bf7e809a94098b58807e7d2230798" sys_domain="global" table="x_2182542_enterp_0_ast_cat" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>8f84ac29fe9942d496b4b0488d5bfdc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>270ff01aa40c47b096744c886fd6fd62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>f733c24f8171412a8ee658375ece5c23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>89144b6bc6234384a181cfd4a7208eb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>f1b5aa645d5a4efdb17129642f260750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_id>d3e01a98acbf4de8888e198a80cd2d56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Asset Category" display_value="Asset Category" name="x_2182542_enterp_0_ast_cat" sys_domain="global" view="Default view">828bf7e809a94098b58807e7d2230798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Asset Category</caption>
+            <header>false</header>
+            <name>x_2182542_enterp_0_ast_cat</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>828bf7e809a94098b58807e7d2230798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_ast_cat</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_section_828bf7e809a94098b58807e7d2230798</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

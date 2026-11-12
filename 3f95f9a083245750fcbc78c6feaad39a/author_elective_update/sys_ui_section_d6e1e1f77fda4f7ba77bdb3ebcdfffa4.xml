@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="Contact" section_id="d6e1e1f77fda4f7ba77bdb3ebcdfffa4" sys_domain="global" table="x_2182542_enterp_0_contact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>9044ca08aab34b018b287ce8620c58cc</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>first_name</element>
+      <position>1</position>
+      <sys_id>207422074d4d466fb8efcb8825d3ba22</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>email</element>
+      <position>2</position>
+      <sys_id>f602708dcb9e4c3faffa2f949df35f81</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>company</element>
+      <position>3</position>
+      <sys_id>420f90e934434b199a18bfd107581dea</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>4</position>
+      <sys_id>333cc933694d4e13bbd79b3e78145dfd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>last_name</element>
+      <position>5</position>
+      <sys_id>4cd890e565504d48a1fa1ae63fcd3502</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>phone</element>
+      <position>6</position>
+      <sys_id>2dba5c33933a4e7ba15cd0f0756c27a4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>department</element>
+      <position>7</position>
+      <sys_id>5702cfb9a5394701a7449dbb9c4223b1</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>8</position>
+      <sys_id>d662e6a6ffe148ae9313bb0d1395ba80</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>Contact</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_contact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_d6e1e1f77fda4f7ba77bdb3ebcdfffa4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Contact" section_id="d6e1e1f77fda4f7ba77bdb3ebcdfffa4" sys_domain="global" table="x_2182542_enterp_0_contact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>9044ca08aab34b018b287ce8620c58cc</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>first_name</element>
+      <position>1</position>
+      <sys_id>207422074d4d466fb8efcb8825d3ba22</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>email</element>
+      <position>2</position>
+      <sys_id>f602708dcb9e4c3faffa2f949df35f81</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>company</element>
+      <position>3</position>
+      <sys_id>420f90e934434b199a18bfd107581dea</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>4</position>
+      <sys_id>333cc933694d4e13bbd79b3e78145dfd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>last_name</element>
+      <position>5</position>
+      <sys_id>4cd890e565504d48a1fa1ae63fcd3502</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>phone</element>
+      <position>6</position>
+      <sys_id>2dba5c33933a4e7ba15cd0f0756c27a4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>department</element>
+      <position>7</position>
+      <sys_id>5702cfb9a5394701a7449dbb9c4223b1</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>8</position>
+      <sys_id>d662e6a6ffe148ae9313bb0d1395ba80</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Contact" display_value="Contact" name="x_2182542_enterp_0_contact" sys_domain="global" view="Default view">d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Contact</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_contact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-473156707</payload_hash>
+        <record_name>Contact</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:34</sys_created_on>
+        <sys_id>69b939e883245750fcbc78c6feaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67ea10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:34</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a9b939e88524575088b68983917dfc05</update_guid>
+        <update_guid_history>a9b939e88524575088b68983917dfc05:542667178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>a0282150462f4c408eec32da5816d840</sys_id>
+        <sys_metadata>d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="Contact">bc335ed8b0034e02bab528384f04fbf2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d6e1e1f77fda4f7ba77bdb3ebcdfffa4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d6e1e1f77fda4f7ba77bdb3ebcdfffa4">69b939e883245750fcbc78c6feaad306</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

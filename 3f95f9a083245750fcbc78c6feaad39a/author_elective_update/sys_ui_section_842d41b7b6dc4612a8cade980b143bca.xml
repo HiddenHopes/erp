@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="Activity Details" section_id="842d41b7b6dc4612a8cade980b143bca" sys_domain="global" table="x_2182542_enterp_0_interact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>2f22494b04124c36b03c5e886cbeebba</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>number</element>
+      <position>1</position>
+      <sys_id>a1ab67632a8f4fa9ab2505f6de4cee05</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>subject</element>
+      <position>2</position>
+      <sys_id>0074a589b44f43b6a522be97a53374cf</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>activity_type</element>
+      <position>3</position>
+      <sys_id>dd4b8f12a5f6492da854b593e7285d4a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>direction</element>
+      <position>4</position>
+      <sys_id>0d6b0708dd314400861a77991a89e92e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>5</position>
+      <sys_id>e1f2ce0e05264aad83962e84f690542b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>account</element>
+      <position>6</position>
+      <sys_id>0f4159943dd74369a530425a78cfc856</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>contact</element>
+      <position>7</position>
+      <sys_id>96b2f837d40a4fc983723beb80340741</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>opportunity</element>
+      <position>8</position>
+      <sys_id>7005c8545b2049e988c816438148bd43</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>status</element>
+      <position>9</position>
+      <sys_id>b8ea88bcdf734da49640ae0b45ea14e7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>550242b567d8471cb987866c1597d3b8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>11</position>
+      <sys_id>87f7161f9fbf4eb9bef99441f6430de9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assigned_to</element>
+      <position>12</position>
+      <sys_id>735281ba8a4b43b49d37f65e7f41747f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>13</position>
+      <sys_id>9fdb04d05d4f4e3d9d0d46cd8f9fc0ec</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>due_date</element>
+      <position>14</position>
+      <sys_id>675f74850d1c4e18b804b3865c747358</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>15</position>
+      <sys_id>96aae3168f6746778a3a9a6410c13d9d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>Activity Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_interact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>842d41b7b6dc4612a8cade980b143bca</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_842d41b7b6dc4612a8cade980b143bca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Activity Details" section_id="842d41b7b6dc4612a8cade980b143bca" sys_domain="global" table="x_2182542_enterp_0_interact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>2f22494b04124c36b03c5e886cbeebba</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>number</element>
+      <position>1</position>
+      <sys_id>a1ab67632a8f4fa9ab2505f6de4cee05</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>subject</element>
+      <position>2</position>
+      <sys_id>0074a589b44f43b6a522be97a53374cf</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>activity_type</element>
+      <position>3</position>
+      <sys_id>dd4b8f12a5f6492da854b593e7285d4a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>direction</element>
+      <position>4</position>
+      <sys_id>0d6b0708dd314400861a77991a89e92e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>5</position>
+      <sys_id>e1f2ce0e05264aad83962e84f690542b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>account</element>
+      <position>6</position>
+      <sys_id>0f4159943dd74369a530425a78cfc856</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>contact</element>
+      <position>7</position>
+      <sys_id>96b2f837d40a4fc983723beb80340741</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>opportunity</element>
+      <position>8</position>
+      <sys_id>7005c8545b2049e988c816438148bd43</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>status</element>
+      <position>9</position>
+      <sys_id>b8ea88bcdf734da49640ae0b45ea14e7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>550242b567d8471cb987866c1597d3b8</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>11</position>
+      <sys_id>87f7161f9fbf4eb9bef99441f6430de9</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assigned_to</element>
+      <position>12</position>
+      <sys_id>735281ba8a4b43b49d37f65e7f41747f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>13</position>
+      <sys_id>9fdb04d05d4f4e3d9d0d46cd8f9fc0ec</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>due_date</element>
+      <position>14</position>
+      <sys_id>675f74850d1c4e18b804b3865c747358</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>15</position>
+      <sys_id>96aae3168f6746778a3a9a6410c13d9d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Activity Details" display_value="Activity Details" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">842d41b7b6dc4612a8cade980b143bca</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Activity Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_interact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>842d41b7b6dc4612a8cade980b143bca</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-1872332467</payload_hash>
+        <record_name>Interaction</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:33</sys_created_on>
+        <sys_id>d1b9f5e883245750fcbc78c6feaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67c4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>15b9f5e8e2245750ca9b280955341a6a</update_guid>
+        <update_guid_history>15b9f5e8e2245750ca9b280955341a6a:798878252</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>19d3ab6ec79a4c4ca562ecf59e4d36c4</sys_id>
+        <sys_metadata>842d41b7b6dc4612a8cade980b143bca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Details</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="Interaction">9dafdf50896e49cea69621ffc7b8c137</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_842d41b7b6dc4612a8cade980b143bca</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_842d41b7b6dc4612a8cade980b143bca">d1b9f5e883245750fcbc78c6feaad36b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

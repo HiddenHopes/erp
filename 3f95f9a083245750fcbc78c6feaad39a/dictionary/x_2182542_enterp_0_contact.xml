@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="bc335ed8b0034e02bab528384f04fbf2" label="Contact" name="x_2182542_enterp_0_contact" type="collection">
+    <element db_object_id="bc335ed8b0034e02bab528384f04fbf2" name="x_2182542_enterp_0_contact" type="collection">
         <element label="Department" name="department" reference="x_2182542_enterp_0_dept" type="reference"/>
         <element default="true" label="Active" name="active" type="boolean"/>
         <element label="Last Name" mandatory="true" max_length="100" name="last_name" type="string"/>

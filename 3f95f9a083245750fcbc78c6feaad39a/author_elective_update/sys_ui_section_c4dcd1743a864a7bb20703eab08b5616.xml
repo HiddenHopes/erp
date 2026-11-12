@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="Description" section_id="c4dcd1743a864a7bb20703eab08b5616" sys_domain="global" table="x_2182542_enterp_0_interact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>0</position>
+      <sys_id>14ae7fdbce86452c9c6829b4769c4d81</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Description" display_value="Description" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">c4dcd1743a864a7bb20703eab08b5616</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>Description</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_interact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>c4dcd1743a864a7bb20703eab08b5616</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_c4dcd1743a864a7bb20703eab08b5616</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Description" section_id="c4dcd1743a864a7bb20703eab08b5616" sys_domain="global" table="x_2182542_enterp_0_interact" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>0</position>
+      <sys_id>14ae7fdbce86452c9c6829b4769c4d81</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Description" display_value="Description" name="x_2182542_enterp_0_interact" sys_domain="global" view="Default view">c4dcd1743a864a7bb20703eab08b5616</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Description</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_interact</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>c4dcd1743a864a7bb20703eab08b5616</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-623319102</payload_hash>
+        <record_name>Interaction</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:33</sys_created_on>
+        <sys_id>edb9f5e883245750fcbc78c6feaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67d910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>11b9f5e8722457509cfbf7e18e39c5c7</update_guid>
+        <update_guid_history>11b9f5e8722457509cfbf7e18e39c5c7:1866109763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>91bd4d3811dd4996904b05762a5dff84</sys_id>
+        <sys_metadata>c4dcd1743a864a7bb20703eab08b5616</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="Interaction">9dafdf50896e49cea69621ffc7b8c137</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c4dcd1743a864a7bb20703eab08b5616</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c4dcd1743a864a7bb20703eab08b5616">edb9f5e883245750fcbc78c6feaad3c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

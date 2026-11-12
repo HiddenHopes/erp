@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="7c110a1b02c4417593c2b6afdff7bd94" label="Asset Type" name="x_2182542_enterp_0_ast_type" type="collection">
+        <element label="Description" max_length="500" name="description" type="multi_two_lines"/>
+        <element display="true" label="Asset Type" mandatory="true" max_length="100" name="name" type="string"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+    </element>
+</database>

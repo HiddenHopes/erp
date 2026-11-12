@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="HR Case Details" section_id="7a9ffc3c44734c88bf30f5f0de06098f" sys_domain="global" table="x_2182542_enterp_0_hr_case" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>851c79d321a943a6a26e1810f812cee4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>hr_category</element>
+      <position>1</position>
+      <sys_id>8d4d4a72465c442d95751a5779ab1594</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>employee</element>
+      <position>2</position>
+      <sys_id>9d1b51760a814810b1b6cd4974f49144</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>dc759bda8cc0445fbbc33c07730c1573</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>confidential</element>
+      <position>4</position>
+      <sys_id>52b767bd467040edba7ce3ed5e039378</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>manager_ref</element>
+      <position>5</position>
+      <sys_id>bd12591f2573424d834c7ef7fc515eac</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>a66719856dc449f5b81f6c60b4fccc29</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>target_date</element>
+      <position>7</position>
+      <sys_id>adab7704131f4ac085c000482a72cf73</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>HR Case Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_hr_case</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>7a9ffc3c44734c88bf30f5f0de06098f</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_7a9ffc3c44734c88bf30f5f0de06098f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="HR Case Details" section_id="7a9ffc3c44734c88bf30f5f0de06098f" sys_domain="global" table="x_2182542_enterp_0_hr_case" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>851c79d321a943a6a26e1810f812cee4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>hr_category</element>
+      <position>1</position>
+      <sys_id>8d4d4a72465c442d95751a5779ab1594</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>employee</element>
+      <position>2</position>
+      <sys_id>9d1b51760a814810b1b6cd4974f49144</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>dc759bda8cc0445fbbc33c07730c1573</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>confidential</element>
+      <position>4</position>
+      <sys_id>52b767bd467040edba7ce3ed5e039378</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>manager_ref</element>
+      <position>5</position>
+      <sys_id>bd12591f2573424d834c7ef7fc515eac</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>a66719856dc449f5b81f6c60b4fccc29</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>target_date</element>
+      <position>7</position>
+      <sys_id>adab7704131f4ac085c000482a72cf73</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="HR Case Details" display_value="HR Case Details" name="x_2182542_enterp_0_hr_case" sys_domain="global" view="Default view">7a9ffc3c44734c88bf30f5f0de06098f</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>HR Case Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_hr_case</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>7a9ffc3c44734c88bf30f5f0de06098f</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>1365091544</payload_hash>
+        <record_name>HR Case</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:32</sys_created_on>
+        <sys_id>09b9b5e883245750fcbc78c6feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c678e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>49b9b5e82f245750624fb176de882f9f</update_guid>
+        <update_guid_history>49b9b5e82f245750624fb176de882f9f:1643535644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0856f25304d1403a82120f3d97fe2304</sys_id>
+        <sys_metadata>7a9ffc3c44734c88bf30f5f0de06098f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case Details</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="HR Case">5f43b7bfa3dc4acf86be9827cae5d1a5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7a9ffc3c44734c88bf30f5f0de06098f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7a9ffc3c44734c88bf30f5f0de06098f">09b9b5e883245750fcbc78c6feaad3a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

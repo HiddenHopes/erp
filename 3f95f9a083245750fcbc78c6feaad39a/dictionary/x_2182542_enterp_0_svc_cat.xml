@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="43173713760846babf41ca6b4ca5af11" label="Service Category" name="x_2182542_enterp_0_svc_cat" type="collection">
+    <element db_object_id="43173713760846babf41ca6b4ca5af11" name="x_2182542_enterp_0_svc_cat" type="collection">
         <element display="true" label="Category Name" mandatory="true" max_length="100" name="name" type="string"/>
         <element label="Icon" max_length="100" name="icon" type="string"/>
         <element label="Service Line" mandatory="true" name="service_line" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="CRM" sequence="3" value="crm"/>
-                <element inactive_on_update="false" label="Facilities" sequence="4" value="facilities"/>
-                <element inactive_on_update="false" label="Finance" sequence="5" value="finance"/>
-                <element inactive_on_update="false" label="Other" sequence="6" value="other"/>
-                <element inactive_on_update="false" label="HR" sequence="2" value="hr"/>
-                <element inactive_on_update="false" label="IT" sequence="1" value="it"/>
-            </choice>
+            <choice/>
         </element>
         <element default="100" label="Display Order" name="order" type="integer"/>
         <element label="Description" max_length="1000" name="description" type="multi_two_lines"/>

@@ -16,11 +16,11 @@
         <label>IT Request</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_2182542_enterp_0_it_req</name>
-        <number_ref display_value="IT">b9f4c1b0344c4461a00f5e8ace9c9d69</number_ref>
+        <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Service Request" name="x_2182542_enterp_0_svc_req">54d7d2c9b733441b8d99c8dad056b271</super_class>
+        <super_class display_value="x_2182542_enterp_0_svc_req" name="x_2182542_enterp_0_svc_req">54d7d2c9b733441b8d99c8dad056b271</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-11-11 04:00:41</sys_created_on>

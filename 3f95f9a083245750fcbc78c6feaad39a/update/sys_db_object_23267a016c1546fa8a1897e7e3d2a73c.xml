@@ -16,7 +16,7 @@
         <label>Account</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_2182542_enterp_0_account</name>
-        <number_ref display_value="ACCT">ff7ede57714b4366b1098626e788ef36</number_ref>
+        <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

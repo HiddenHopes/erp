@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
             <sys_id>a58590772962497bb2ff02237492187a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,71 +18,85 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
             <sys_id>0e8d00a4d95547d5b1cc290d66a0c051</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
+            <sys_id>a1020f95748046639fda2f98557a7cde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
-            <sys_id>e6c405c1ba9643e6bc57b2833252b4e5</sys_id>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
+            <sys_id>1cc86f288b6d4f2e9372f723c11c269b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>manager</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
-            <sys_id>a790f45612a64d0f87163778ecad617a</sys_id>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
+            <sys_id>8de04723652147179ff330dc9218fdf9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
+            <sys_id>e41dc1b55e964582bc1ca6f40a18162f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
-            <sys_id>f26910b488884126a24b84d93a0197ea</sys_id>
+            <sys_created_on>2026-11-12 08:36:09</sys_created_on>
+            <sys_id>4efe7224c66642c1be79a01b72be5a16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
+            <sys_updated_on>2026-11-12 08:36:09</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-11 05:29:24</sys_created_on>
-            <sys_id>216e9b1e349d4e57980579b32bb1b504</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Department" display_value="Department" name="x_2182542_enterp_0_dept" sys_domain="global" view="Default view">feb7e574605a4f65b9f344e33f270c06</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-11 05:29:24</sys_updated_on>
-            <sys_user/>
-            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Department</caption>

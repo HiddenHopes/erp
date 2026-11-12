@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="Details" section_id="9599223f092b47d09f08893bfca744f2" sys_domain="global" table="x_2182542_enterp_0_opp" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>0</position>
+      <sys_id>1563448c15a14204a32dfd192a2ba4bd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Details" display_value="Details" name="x_2182542_enterp_0_opp" sys_domain="global" view="Default view">9599223f092b47d09f08893bfca744f2</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>loss_reason</element>
+      <position>1</position>
+      <sys_id>7ddea6c14e2140058eaae72486c6361d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Details" display_value="Details" name="x_2182542_enterp_0_opp" sys_domain="global" view="Default view">9599223f092b47d09f08893bfca744f2</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_opp</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>9599223f092b47d09f08893bfca744f2</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_9599223f092b47d09f08893bfca744f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Details" section_id="9599223f092b47d09f08893bfca744f2" sys_domain="global" table="x_2182542_enterp_0_opp" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>0</position>
+      <sys_id>1563448c15a14204a32dfd192a2ba4bd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Details" display_value="Details" name="x_2182542_enterp_0_opp" sys_domain="global" view="Default view">9599223f092b47d09f08893bfca744f2</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>loss_reason</element>
+      <position>1</position>
+      <sys_id>7ddea6c14e2140058eaae72486c6361d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Details" display_value="Details" name="x_2182542_enterp_0_opp" sys_domain="global" view="Default view">9599223f092b47d09f08893bfca744f2</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_opp</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>9599223f092b47d09f08893bfca744f2</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>745864545</payload_hash>
+        <record_name>Opportunity</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:33</sys_created_on>
+        <sys_id>95b9f5e883245750fcbc78c6feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67cad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d5b9f5e893245750338e622a9827fb82</update_guid>
+        <update_guid_history>d5b9f5e893245750338e622a9827fb82:-137957307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>004130cf14774f08b98aeed113aa9b44</sys_id>
+        <sys_metadata>9599223f092b47d09f08893bfca744f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="Opportunity">d6486c4a2cfc44e0b14d2ac96255da54</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9599223f092b47d09f08893bfca744f2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9599223f092b47d09f08893bfca744f2">95b9f5e883245750fcbc78c6feaad383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

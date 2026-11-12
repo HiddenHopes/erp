@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="Service Category" section_id="8079638f98634f5a8d533987e13797c8" sys_domain="global" table="x_2182542_enterp_0_svc_cat" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>acfacc75d3594037a4dcefe0bf1b6a54</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>61c4ebe918f1457c860d105177cdce98</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>order</element>
+      <position>2</position>
+      <sys_id>0922c410c9ae4ad7b0df65665948299a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>71f61fa638f24bb8ba137d010fa51c02</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>service_line</element>
+      <position>4</position>
+      <sys_id>a713f5ae221247319d8b7fe16d096d74</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>active</element>
+      <position>5</position>
+      <sys_id>ceaa3dc1d49943db8859c9f494bc546f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>a2fe9f751f12480eb2f28ef2fa8c7f95</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>7</position>
+      <sys_id>560934002ffe47d78c362ae826c4eca4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>Service Category</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_svc_cat</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>8079638f98634f5a8d533987e13797c8</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_8079638f98634f5a8d533987e13797c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Service Category" section_id="8079638f98634f5a8d533987e13797c8" sys_domain="global" table="x_2182542_enterp_0_svc_cat" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>acfacc75d3594037a4dcefe0bf1b6a54</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>61c4ebe918f1457c860d105177cdce98</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>order</element>
+      <position>2</position>
+      <sys_id>0922c410c9ae4ad7b0df65665948299a</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>71f61fa638f24bb8ba137d010fa51c02</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>service_line</element>
+      <position>4</position>
+      <sys_id>a713f5ae221247319d8b7fe16d096d74</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>active</element>
+      <position>5</position>
+      <sys_id>ceaa3dc1d49943db8859c9f494bc546f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>a2fe9f751f12480eb2f28ef2fa8c7f95</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>7</position>
+      <sys_id>560934002ffe47d78c362ae826c4eca4</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Service Category" display_value="Service Category" name="x_2182542_enterp_0_svc_cat" sys_domain="global" view="Default view">8079638f98634f5a8d533987e13797c8</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Service Category</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_svc_cat</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>8079638f98634f5a8d533987e13797c8</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>1370582825</payload_hash>
+        <record_name>Service Category</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:33</sys_created_on>
+        <sys_id>15b9f5e883245750fcbc78c6feaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67ac60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>55b9f5e807245750b333479cc5ff6f12</update_guid>
+        <update_guid_history>55b9f5e807245750b333479cc5ff6f12:2092020989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7577835fa2a64b98bbb0cdfdcf2ad5c4</sys_id>
+        <sys_metadata>8079638f98634f5a8d533987e13797c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Category</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="Service Category">43173713760846babf41ca6b4ca5af11</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8079638f98634f5a8d533987e13797c8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8079638f98634f5a8d533987e13797c8">15b9f5e883245750fcbc78c6feaad313</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

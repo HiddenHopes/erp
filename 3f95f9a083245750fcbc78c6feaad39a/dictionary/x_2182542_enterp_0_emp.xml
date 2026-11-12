@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="55745223ef1b4e66bf029974146f40d9" label="Employee" name="x_2182542_enterp_0_emp" type="collection">
+        <element label="Last Name" mandatory="true" max_length="100" name="last_name" type="string"/>
+        <element label="User Account" name="user" reference="sys_user" type="reference"/>
+        <element label="Department" name="department" reference="x_2182542_enterp_0_dept" type="reference"/>
+        <element label="Branch" name="branch" reference="x_2182542_enterp_0_branch" type="reference"/>
+        <element label="Join Date" name="join_date" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" name="number" type="string"/>
+        <element label="Email" name="email" type="email"/>
+        <element label="Designation" max_length="200" name="designation" type="string"/>
+        <element label="First Name" mandatory="true" max_length="100" name="first_name" type="string"/>
+        <element display="true" label="Employee ID" mandatory="true" max_length="20" name="emp_id" type="string"/>
+        <element default="active" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Inactive" sequence="2" value="inactive"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Terminated" sequence="3" value="terminated"/>
+            </choice>
+        </element>
+        <element label="Manager" name="manager" reference="x_2182542_enterp_0_emp" type="reference"/>
+        <element label="Phone" max_length="40" name="phone" type="string"/>
+        <index name="index">
+            <element name="branch"/>
+        </index>
+        <index name="index2">
+            <element name="department"/>
+        </index>
+        <index name="index3">
+            <element name="manager"/>
+        </index>
+        <index name="index4">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

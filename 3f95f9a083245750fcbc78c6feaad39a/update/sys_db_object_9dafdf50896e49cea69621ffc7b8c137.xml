@@ -16,7 +16,7 @@
         <label>Interaction</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_2182542_enterp_0_interact</name>
-        <number_ref display_value="ACT">e095287dfd37454aa9f04e29f4627df7</number_ref>
+        <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

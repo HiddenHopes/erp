@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section action="DELETE" caption="IT Request Details" section_id="c2983f5a57d64145a501199a405ad22a" sys_domain="global" table="x_2182542_enterp_0_it_req" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>c5194038235b498380f46e9a4c824571</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>it_type</element>
+      <position>1</position>
+      <sys_id>0112655bdd1d45df99b53788580e4287</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>impact</element>
+      <position>2</position>
+      <sys_id>aadead2eb92b4374a0a396cf24790833</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>3228600702fb488fb5ccef10a43ee752</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>urgency</element>
+      <position>4</position>
+      <sys_id>bbfb28d0ef3347a89a4bae2a6762292e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>asset</element>
+      <position>5</position>
+      <sys_id>663bd3188e2144b4b8af9041ebf0cc3e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>805230cc52164488857109643fd09ff2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="DELETE" apply_defaults="true">
+      <caption>IT Request Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_it_req</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>c2983f5a57d64145a501199a405ad22a</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</application>
+        <file_path/>
+        <instance_id>5b4ae1971b9e3550c84543f4bd4bcb21</instance_id>
+        <instance_name>dev209725</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_c2983f5a57d64145a501199a405ad22a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="IT Request Details" section_id="c2983f5a57d64145a501199a405ad22a" sys_domain="global" table="x_2182542_enterp_0_it_req" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>c5194038235b498380f46e9a4c824571</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>it_type</element>
+      <position>1</position>
+      <sys_id>0112655bdd1d45df99b53788580e4287</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>impact</element>
+      <position>2</position>
+      <sys_id>aadead2eb92b4374a0a396cf24790833</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>3</position>
+      <sys_id>3228600702fb488fb5ccef10a43ee752</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>urgency</element>
+      <position>4</position>
+      <sys_id>bbfb28d0ef3347a89a4bae2a6762292e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>asset</element>
+      <position>5</position>
+      <sys_id>663bd3188e2144b4b8af9041ebf0cc3e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>6</position>
+      <sys_id>805230cc52164488857109643fd09ff2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="IT Request Details" display_value="IT Request Details" name="x_2182542_enterp_0_it_req" sys_domain="global" view="Default view">c2983f5a57d64145a501199a405ad22a</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>IT Request Details</caption>
+      <header>false</header>
+      <name>x_2182542_enterp_0_it_req</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>c2983f5a57d64145a501199a405ad22a</sys_id>
+      <sys_scope display_value="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-949092366</payload_hash>
+        <record_name>IT Request</record_name>
+        <reverted_from/>
+        <source>af8975a883245750fcbc78c6feaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 04:03:33</sys_created_on>
+        <sys_id>15b9f5e883245750fcbc78c6feaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1c8c67d4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>55b9f5e809245750a91e34e5bbbd8ea4</update_guid>
+        <update_guid_history>55b9f5e809245750a91e34e5bbbd8ea4:1272127095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-12 08:36:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>01db9913aa174d838ec8690b46fc3d49</sys_id>
+        <sys_metadata>c2983f5a57d64145a501199a405ad22a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Request Details</sys_name>
+        <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+        <sys_parent display_value="IT Request">dd7bcde089b5402393963eccb577091f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+        <sys_scope_delete display_value="">161ccba4b8c94b2382571b6fc5d9eeb1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c2983f5a57d64145a501199a405ad22a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c2983f5a57d64145a501199a405ad22a">15b9f5e883245750fcbc78c6feaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-12 08:36:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

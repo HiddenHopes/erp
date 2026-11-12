@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b56ebc68b8654e82805d53be50d9f8c5" label="Asset" name="x_2182542_enterp_0_asset" type="collection">
+        <element label="Purchase Date" name="purchase_date" type="glide_date_time"/>
+        <element label="Notes" max_length="4000" name="notes" type="multi_two_lines"/>
+        <element label="Location" max_length="200" name="location" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" name="number" type="string"/>
+        <element label="Asset Number" max_length="50" name="asset_number" type="string"/>
+        <element default="1" label="Quantity" name="quantity" type="integer"/>
+        <element label="Serial Number" max_length="100" name="serial" type="string"/>
+        <element label="Asset Type" name="asset_type" reference="x_2182542_enterp_0_ast_type" type="reference"/>
+        <element label="Category" name="category" reference="x_2182542_enterp_0_ast_cat" type="reference"/>
+        <element label="Asset Model" max_length="200" name="model" type="string"/>
+        <element default="available" label="Asset Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="1" value="available"/>
+                <element inactive_on_update="false" label="In Use" sequence="2" value="in_use"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="3" value="maintenance"/>
+                <element inactive_on_update="false" label="Retired" sequence="4" value="retired"/>
+            </choice>
+        </element>
+        <element default="1" label="Remaining" name="remaining" type="integer"/>
+        <element label="Assigned To" name="assigned_to" reference="x_2182542_enterp_0_emp" type="reference"/>
+        <element display="true" label="Asset Name" mandatory="true" max_length="200" name="name" type="string"/>
+        <index name="index">
+            <element name="asset_type"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index3">
+            <element name="category"/>
+        </index>
+    </element>
+</database>
