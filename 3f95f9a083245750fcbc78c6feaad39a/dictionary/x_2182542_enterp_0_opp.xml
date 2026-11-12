@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d6486c4a2cfc44e0b14d2ac96255da54" label="Opportunity" name="x_2182542_enterp_0_opp" type="collection">
+        <element label="Primary Contact" name="contact" reference="x_2182542_enterp_0_contact" type="reference"/>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element display="true" label="Opportunity Name" mandatory="true" max_length="200" name="name" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" name="number" type="string"/>
+        <element label="Loss Reason" max_length="1000" name="loss_reason" type="multi_two_lines"/>
+        <element label="Expected Close Date" name="close_date" type="glide_date_time"/>
+        <element default="prospecting" label="Stage" mandatory="true" name="stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Negotiation" sequence="4" value="negotiation"/>
+                <element inactive_on_update="false" label="Qualification" sequence="2" value="qualification"/>
+                <element inactive_on_update="false" label="Closed Won" sequence="5" value="closed_won"/>
+                <element inactive_on_update="false" label="Proposal" sequence="3" value="proposal"/>
+                <element inactive_on_update="false" label="Prospecting" sequence="1" value="prospecting"/>
+                <element inactive_on_update="false" label="Closed Lost" sequence="6" value="closed_lost"/>
+            </choice>
+        </element>
+        <element label="Owner" name="owner" reference="sys_user" type="reference"/>
+        <element label="Account" name="account" reference="x_2182542_enterp_0_account" type="reference"/>
+        <element label="Amount" max_length="50" name="amount" type="string"/>
+        <element default="10" label="Probability (%)" name="probability" type="integer"/>
+        <index name="index">
+            <element name="account"/>
+        </index>
+        <index name="index2">
+            <element name="contact"/>
+        </index>
+        <index name="index3">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application_runtime_policy>none</application_runtime_policy>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>SNS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>b24c0a2083e45750fcbc78c6feaad308</logo>
+        <menu/>
+        <name>Enterprise Service Hub</name>
+        <package_json/>
+        <package_resolver_version>1.0.0</package_resolver_version>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_2182542_enterp_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>A unified service management platform providing IT, HR, CRM, and extensible service modules with a production-grade dashboard, role-based access, and automated workflows.</short_description>
+        <sn_managed>false</sn_managed>
+        <source>x_2182542_enterp_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 03:45:42</sys_created_on>
+        <sys_id>3f95f9a083245750fcbc78c6feaad39a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 05:24:46</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f95f9a083245750fcbc78c6feaad39a"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>bjit-logo2.svg</file_name>
+        <hash>12913b944b40410e85c8922fe9fa2ea53f67de7f6a72cec6e1bb16464a412073</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3249</size_bytes>
+        <size_compressed>1432</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 05:23:41</sys_created_on>
+        <sys_id>cf0cca2083e45750fcbc78c6feaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 05:23:41</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>3f95f9a083245750fcbc78c6feaad39a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="bjit-logo2.svg" sys_id="cf0cca2083e45750fcbc78c6feaad30e">cf0cca2083e45750fcbc78c6feaad30e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 05:23:41</sys_created_on>
+        <sys_id>830cca2083e45750fcbc78c6feaad312</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>7Vbbbhs3EH2Ov2K7eSqwpHhfUrEStEYbB0iAAgXyWjjrjSRElQxJlu0W/feeM1QcpUj9XqAGvJzlci5nzsxQ56/uf181h3G7W27Ws9Zq0zbjethcL9fzWXu7/6hy++rl2fl3SjWvx/W4vdpvttPmh+vNh7F5s1rd7vay1bionfZd8+v7181P9zeb7b75ZXU7V2/WjZbN99XHtEnamObH2+XqujHfN41SML87zE+DsG2zvJ61b68exu1veEGM692sXez3N9PJ5O7uTt95vdnOJ84YM4Hy8cj0frVcf/rWQVtKmchXHJ215ua+bR7qevasuVte7xezNhrZX4zL+WI/a4MN2nHjsBzvftxQrTENDjXypW12+4fVOGvH9dWH1ag+XA2f5tvN7fp6uh7vmq/OvpAAp7ubqwEKN9txN24PY0vktNHsH26wvx/v95Nht8P+M73bmz8/Ller6XOffSr2xV+yaevmerMeXyD3m0/j9PnP8nd8VQJmanWOJUHpfCIu4GoOs+c3V/tFM6yudsgnXLQN8vzOeatTZ0PS8VCS9oPBi07K675zSQdlwUnnow6DypCs0VbZQp0IyQcdRBqU9fhslPPQdlCE4ah67c6ePRuwZhXwD2u9go3PUh6MSp3jVt8lmkbKBg9Np0vX6wItuPLaQegHujTadUXHzmLFB99VDYQLjYjTSWdZ6YHOTedhB1npMuxGaECtDDAUO0aCfxgLsjqehqUIqxH+e64D32klS1Rcs04HVZAQxI8YFLEyWzityhGzx+keu0kF4gOUS5vigTkZarI6F6BraBMAePzCmQSnNgJU52zP0CIZOOGpnfwrm94X8OGC0/YANwuVi/ZHj0g/PaJVJQciWKBITmdB0R9RlCOKUCEkbPXKV8osBZgFwGrWORgNUYUuZWbZ6nIoGAgX3jJ7zhOOd7EG1Z0E+AQMayLLSiKTAogICKY9GERIhstlijq/t54MBKYMJZIBkeVnYX5g8gNcJgFlWQ6BwgLK5Cdphs5d6DgWcWRdDaCEOvgPLJReBIdaurDSC+QDTJgiSijR7iTc5p31LFDbs26yhBBqR2XZrjmSAJAlMGG7415fhSJs2EoT2kDahBgcDOyUY5MU2o1CUn8JAODaL1iMgEZMaL9OIFOw0DsUIKu9UFQkLCSprpcG2nZhjdFpCEaSkgy/wwaTSq4uCA7hl/AlAdlJZz6iBXRTKcchaYAgzVhY/DI4WG9kCtKCXA0C3wAF+p5fUTxKWpN1F6UM47EcaeOgomOomD4DjRAqZxKHAMZOAH2FjmvF5E6ckVthEADAILvAWRahlew41xPAl8ifKMvgCk/R/0paiKFajhuHLChPV8gHpgC6TiSZirlORQdMjix6VCGwk0iWAPIDY1i8QOydVMdChix7LAyWmZbWZfuhlTLpIV9AqViLNNGTbgyRsoAze0CjpYXnWIeJhRIpS6uje5KMOJ5H0QUKCT4vgmHanC9dkHZwXibhF9hP9axw6zIIuciczd6Tl8gR5ns2SMIgKMgzOxOUpK7U1gAJEj2kAaVVSGvfqyxf8ET9FycldRGCjG+WQRclLTAaCjygJIfHeVt4b0FdwXASaWDiSURmLTpWlU2o/i4jyJWS0YUY6QN3Lh3L7Pd1suQuJC9XTh4A01cyeD/lk9jZ5XJTskzJhmHd4slmyVIMUmbyVMwt5MKSCFWSpqn2Fe3LrUn7RwiF9cOfWrwkVWJ+QpH7FN399oSAP77Fk/2fp/8ET59/mBUrwfE3mTRqxaJk8Ink/E7eagyPj0HV4/LCYeuqxAfz5nBRw7DFDOhLddCdOHsqJCOnQqwzSULyx4D8P8Op6+4xCv91FLYnz9bzBrD4lWKr3e7EByM5n8z5wO/8l2d/A9OznVuxDAAA</data>
+        <length>1896</length>
+        <position>1</position>
+        <sys_attachment display_value="bjit-logo2.svg" sys_id="cf0cca2083e45750fcbc78c6feaad30e">cf0cca2083e45750fcbc78c6feaad30e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 05:23:41</sys_created_on>
+        <sys_id>c30cca2083e45750fcbc78c6feaad311</sys_id>
+    </sys_attachment_doc>
+</record_update>

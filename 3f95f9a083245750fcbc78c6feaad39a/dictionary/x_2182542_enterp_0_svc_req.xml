@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54d7d2c9b733441b8d99c8dad056b271" label="Service Request" name="x_2182542_enterp_0_svc_req" type="collection">
+        <element label="Short Description" mandatory="true" max_length="200" name="short_desc" type="string"/>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element default="new" label="State" mandatory="true" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="closed"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="New" sequence="1" value="new"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="6" value="cancelled"/>
+                <element inactive_on_update="false" label="Resolved" sequence="4" value="resolved"/>
+                <element inactive_on_update="false" label="Pending" sequence="3" value="pending"/>
+            </choice>
+        </element>
+        <element label="Category" name="category" reference="x_2182542_enterp_0_svc_cat" type="reference"/>
+        <element label="Service Line" name="service_line" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="HR" sequence="2" value="hr"/>
+                <element inactive_on_update="false" label="Finance" sequence="5" value="finance"/>
+                <element inactive_on_update="false" label="IT" sequence="1" value="it"/>
+                <element inactive_on_update="false" label="Facilities" sequence="4" value="facilities"/>
+                <element inactive_on_update="false" label="CRM" sequence="3" value="crm"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="other"/>
+            </choice>
+        </element>
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element default="4" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Low" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Critical" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Medium" sequence="3" value="3"/>
+            </choice>
+        </element>
+        <element label="Requested By" name="requested_by" reference="sys_user" type="reference"/>
+        <element label="Comments" name="comments" type="journal_input"/>
+        <element label="Resolved At" name="resolved_at" type="glide_date_time"/>
+        <element label="Contact" name="contact" reference="x_2182542_enterp_0_contact" type="reference"/>
+        <element label="Due Date" name="due_date" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" name="number" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element label="Department" name="department" reference="x_2182542_enterp_0_dept" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="category"/>
+        </index>
+        <index name="index3">
+            <element name="contact"/>
+        </index>
+        <index name="index4">
+            <element name="department"/>
+        </index>
+        <index name="index5">
+            <element name="requested_by"/>
+        </index>
+    </element>
+</database>

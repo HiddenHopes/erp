@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7d114336431a450ab4e56cfaec765ac0" label="Department" name="x_2182542_enterp_0_dept" type="collection">
+        <element display="true" label="Department Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element label="Manager" name="manager" reference="sys_user" type="reference"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Description" max_length="1000" name="description" type="multi_two_lines"/>
+        <index name="index">
+            <element name="manager"/>
+        </index>
+    </element>
+</database>

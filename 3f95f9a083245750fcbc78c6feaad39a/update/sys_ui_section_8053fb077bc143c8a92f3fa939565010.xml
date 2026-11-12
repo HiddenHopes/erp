@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Account Details" section_id="8053fb077bc143c8a92f3fa939565010" sys_domain="global" table="x_2182542_enterp_0_account" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>a5aa8ae9543a4cdb8e0ae64115ef57aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>0427295de57f400e8a4c806a46507081</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>ab77a1bd44394413828112848e3fa3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>industry</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>f90cb4822e2d4751a86b383cd543ea6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>376907b6554b4e798f558033c153a04f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>11f967509b674a02b5903627e4e52c98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_owner</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>b52edb8b4c8b4dfa8e2363db494c9fdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>73531b16b30c443f915f51f502d60fce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revenue</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>93fcc89dd5e447d684bd9fd60f6eb98f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>website</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>5b710a552e43409aa8efb1574e7d4f27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:22</sys_created_on>
+            <sys_id>c221d65c05db46ea88c5c407dca56fe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Account Details" display_value="Account Details" name="x_2182542_enterp_0_account" sys_domain="global" view="Default view">8053fb077bc143c8a92f3fa939565010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Account Details</caption>
+            <header>false</header>
+            <name>x_2182542_enterp_0_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 04:03:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8053fb077bc143c8a92f3fa939565010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2182542_enterp_0_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_ui_section_8053fb077bc143c8a92f3fa939565010</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 04:03:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

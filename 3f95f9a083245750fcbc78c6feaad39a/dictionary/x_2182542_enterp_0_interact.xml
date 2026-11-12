@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9dafdf50896e49cea69621ffc7b8c137" label="Interaction" name="x_2182542_enterp_0_interact" type="collection">
+        <element label="Activity Type" mandatory="true" name="activity_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Note" sequence="4" value="note"/>
+                <element inactive_on_update="false" label="Task" sequence="5" value="task"/>
+                <element inactive_on_update="false" label="Phone Call" sequence="1" value="call"/>
+                <element inactive_on_update="false" label="Email" sequence="2" value="email"/>
+                <element inactive_on_update="false" label="Meeting" sequence="3" value="meeting"/>
+            </choice>
+        </element>
+        <element label="Contact" name="contact" reference="x_2182542_enterp_0_contact" type="reference"/>
+        <element display="true" label="Subject" mandatory="true" max_length="200" name="subject" type="string"/>
+        <element label="Direction" name="direction" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Outbound" sequence="2" value="outbound"/>
+                <element inactive_on_update="false" label="Inbound" sequence="1" value="inbound"/>
+            </choice>
+        </element>
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Due Date" name="due_date" type="glide_date_time"/>
+        <element default="planned" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+                <element inactive_on_update="false" label="Planned" sequence="1" value="planned"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <element label="Opportunity" name="opportunity" reference="x_2182542_enterp_0_opp" type="reference"/>
+        <element label="Account" name="account" reference="x_2182542_enterp_0_account" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" name="number" type="string"/>
+        <index name="index">
+            <element name="account"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index3">
+            <element name="contact"/>
+        </index>
+        <index name="index4">
+            <element name="opportunity"/>
+        </index>
+    </element>
+</database>

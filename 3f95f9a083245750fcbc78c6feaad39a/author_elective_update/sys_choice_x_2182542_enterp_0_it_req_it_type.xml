@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="it_type" table="x_2182542_enterp_0_it_req" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>it_type</element>
+            <name>x_2182542_enterp_0_it_req</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 04:03:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>it_type</sys_name>
+            <sys_package display_value="Enterprise Service Hub" source="x_2182542_enterp_0">3f95f9a083245750fcbc78c6feaad39a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Service Hub">3f95f9a083245750fcbc78c6feaad39a</sys_scope>
+            <sys_update_name>sys_choice_x_2182542_enterp_0_it_req_it_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 04:03:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>it_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident</label>
+            <language>en</language>
+            <name>x_2182542_enterp_0_it_req</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:18</sys_updated_on>
+            <value>incident</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>it_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Request</label>
+            <language>en</language>
+            <name>x_2182542_enterp_0_it_req</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:18</sys_updated_on>
+            <value>service_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>it_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change Request</label>
+            <language>en</language>
+            <name>x_2182542_enterp_0_it_req</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:18</sys_updated_on>
+            <value>change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>it_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Problem</label>
+            <language>en</language>
+            <name>x_2182542_enterp_0_it_req</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-11 05:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-11 05:29:18</sys_updated_on>
+            <value>problem</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
